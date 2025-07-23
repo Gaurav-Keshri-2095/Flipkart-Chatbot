@@ -1,0 +1,10 @@
+README.md
+setup.py
+flipkart.egg-info/PKG-INFO
+flipkart.egg-info/SOURCES.txt
+flipkart.egg-info/dependency_links.txt
+flipkart.egg-info/top_level.txt
+flipkart_bot/__init__.py
+flipkart_bot/data_converter.py
+flipkart_bot/data_ingestion.py
+flipkart_bot/retrieval_generation.py
